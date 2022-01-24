@@ -9,4 +9,5 @@ selectedList = filter(SelectedPerson, participant)
 print('The selected candidates are:')
 for candidate in selectedList:
     print(candidate)
-print('Kandidates are very helpful')
+print('The unselected candidates are:')
+print('The statement is for the new Branch -Refactor-')
