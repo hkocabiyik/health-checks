@@ -40,7 +40,7 @@ def preorder(root):
         preorder(root.left)
         # Traverse right
         preorder(root.right)
-
+        # End of if statement
 
 root = Node(1)
 root.left = Node(2)
